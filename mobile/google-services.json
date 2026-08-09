@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45649882158",
+    "project_id": "njangibook",
+    "storage_bucket": "njangibook.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45649882158:android:cbc0a2bd9e4637ef4143bf",
+        "android_client_info": {
+          "package_name": "com.adolfjunior.njangibook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5wps44sEEbPj7WYfqgQDwkAusrHJsLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

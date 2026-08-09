@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+# A local backup of a broken virtual environment. Like .venv itself, it is
+# generated machine-specific tooling and must never be committed.
+.venv.broken-backup/
+venv/
+
+# local SQLite database
+*.db
+*.db-journal
+
+# environment secrets (SECRET_KEY, DATABASE_URL, etc.)
+.env
+
+# Firebase Admin service-account credentials. These grant backend-only
+# access and must never be committed or included in a mobile/PWA bundle.
+.secrets/
+secrets.json

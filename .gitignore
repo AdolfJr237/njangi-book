@@ -1,0 +1,8 @@
+# This file only covers things shared across the whole repo.
+# mobile/.gitignore and backend/.gitignore handle project-specific ignores.
+
+.DS_Store
+Thumbs.db
+*.log
+.vscode/*
+!.vscode/extensions.json
